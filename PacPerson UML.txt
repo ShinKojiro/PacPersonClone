@@ -1,0 +1,14 @@
+Class PacPlayer
+	private:
+		color
+		speed
+		anim
+
+Class Ghost
+	private:
+		color
+		speed
+		
+Class PowerUp
+	private:
+		appearance
